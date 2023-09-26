@@ -2,15 +2,31 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/denya24/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/deniam"
+        },
+        {
+            "network" : "squarespace",
+            "href": "https://www.codewars.com/users/denya24"
+        },
+        {
+            "network" : "instagram",
+            "href": "https://instagram.com/denya24"
+        },
+        {
+            "network" : "whatsapp",
+            "href": "https://api.whatsapp.com/send/?phone=380684892565&text&type=phone_number&app_absent=0"
+        },
+        {
+            "network" : "youtube",
+            "href": "https://www.youtube.com/playlist?list=PL0HDz43wMTENiNgPBFpu_QVcPKWFBKut2"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:deniam24@gmail.com"
         }
     ]
 }

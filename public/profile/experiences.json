@@ -2,32 +2,37 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "Makers Academy Software Development Bootcamp",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Programming Languages & Databases: Python, JavaScript, PostgreSQL, Mongoose for MongoDB.",
+                "Frameworks and Technologies: Flask, Node.js, Express, REACT, Jest, Cypress.",
+                "Development Practices: Object-Oriented Design, REST APIs, TDD and Debugging, Agile, Pair Programming."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "05/2023 – 09/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Motion Designer and Music Editor",
+            "subtitle": "TMM-Ukraine, advertising agency",
+            "workType": "Hybrid",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Produced promotional and image-building animated videos for global brands, achieving high client satisfaction and a 4-year partnership with Shell, resulting in numerous repeat video projects.",
+                "Curated music databases and programmed Powergold playlists, elevating in-store ambience across diverse genres, meeting radio industry standards and significantly enhancing customer experience.",
+                "Led and expanded the department, hiring 3 new team members to handle a growing client base. Achieved 500% increase in project efficiency through enhanced workflow coordination, training, and effective team management."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "12/2014 – Present"
+        },
+        {
+            "title": "Founder",
+            "subtitle": "SKY Travel Agency",
+            "workType": "Hybrid",
+            "workDescription": [
+                "Designed and sold 15+ individual tours, ensuring positive customer experiences, repeat business, and referrals.",
+                "Created compelling visual content and grew the Instagram profile from zero to 2,000 followers in three months.",
+                "Delivered 24/7 customer support with excellent satisfaction, swiftly resolving client issues.",
+                "Managed flights, transfers, and efficiently addressed travel disruptions, including cancellations and delays."
+            ],
+            "dateText": "10/2021 – 02/2022"
         }
     ]
 }

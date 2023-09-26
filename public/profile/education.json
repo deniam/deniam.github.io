@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "May 2023 - Sep 2023",
+            "cardTitle": "Full Stack Software Engineering",
+            "cardSubtitle": "Makers Academy",
+            "cardDetailedText":"London, UK",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Sep 2019 - Jun 2014",
+            "cardTitle": "MSc Marketing",
+            "cardSubtitle":"Kyiv National University of Trade and Economics",
+            "cardDetailedText": "Kharkiv, Ukraine"
         }
     ]
 }
