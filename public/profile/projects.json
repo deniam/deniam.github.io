@@ -58,6 +58,22 @@
                 "Pytest",
                 "PostgreSQL"
             ]
+        },
+        {
+            "image" : "images/projects/banktechtest.png",
+            "title": "Bank Tech Test",
+            "bodyText": "The program allows users to perform financial transactions, including depositing funds, making withdrawals, and viewing transaction history.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/deniam/bank_tech_test"
+                }
+            ],
+            "tags" : [
+                "Node",
+                "JavaScript",
+                "Jest"
+            ]
         }
     ]
 }
