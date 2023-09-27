@@ -1,8 +1,8 @@
-# My github online CV 
+# My github online Portfolio 
 
 ## Demo
 
-To view my online CV **[click here](https://deniam-github-io.vercel.app/)**
+To view my online Portfolio **[click here](https://deniam-github-io.vercel.app/)**
 
 
 ### Prerequisites 📋
