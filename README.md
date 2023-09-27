@@ -2,7 +2,7 @@
 
 ## Demo
 
-To view my CV **[click here]()**
+To view my CV **[click here](https://deniam-github-io.vercel.app/)**
 
 
 ### Prerequisites 📋
